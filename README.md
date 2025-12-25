@@ -12,7 +12,8 @@
 
   <p align="center">
     Experience buffer-free, hardware-accelerated streaming optimized specifically for Indian IPTV channels. <br>
-    Built with <strong>Flutter</strong> & <strong>MPV</strong> for raw power.
+    Built with <strong>Flutter</strong> & <strong>MPV</strong> for raw power.<br>
+    <sub>(Especially for Mushir :))</sub>
   </p>
   
   [**Download Now**](https://github.com/Ghostkwebb/DesiCast/releases/latest) • [**Report Bug**](https://github.com/Ghostkwebb/DesiCast/issues)
